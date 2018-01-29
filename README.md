@@ -1,2 +1,1 @@
-# git-playground
-Experimenting with git and git-hub
+# Learn git and git-hub
